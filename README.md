@@ -1,8 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 images of Website running on development mode:
-![Image of Website]
-(https://github.com/danieladelatorre/jav_project_front/blob/master/Screen%20Shot%202020-08-21%20at%208.49.19%20PM.png)
+
+https://github.com/danieladelatorre/jav_project_front/blob/master/Screen%20Shot%202020-08-21%20at%208.49.19%20PM.png
+https://github.com/danieladelatorre/jav_project_front/blob/master/Screen%20Shot%202020-08-21%20at%208.49.30%20PM.png
+https://github.com/danieladelatorre/jav_project_front/blob/master/Screen%20Shot%202020-08-21%20at%208.49.41%20PM.png
+https://github.com/danieladelatorre/jav_project_front/blob/master/Screen%20Shot%202020-08-21%20at%208.49.58%20PM.png
 
 ## Available Scripts
 
