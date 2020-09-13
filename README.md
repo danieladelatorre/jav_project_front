@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Given a csv file, the python backend is used to read the information from the csv file and store it into a mysql database. The javascript files are used for the front-end portion such as the decoration and graphs. It gets the information by using the fetch command to make get requests to the python backend.
+
 images of Website running on development mode:
 
 https://github.com/danieladelatorre/jav_project_front/blob/master/Screen%20Shot%202020-08-21%20at%208.49.19%20PM.png
